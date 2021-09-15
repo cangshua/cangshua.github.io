@@ -1,3 +1,9 @@
+---
+title: my new post
+date: 2021-08-23 08:49:53
+tags:
+---
+
 1.在github创建一个仓库 名字：github用户名.github.io
 
 2.找到博客代码的目录
